@@ -59,7 +59,6 @@ import brooklyn.location.docker.DockerLocation;
 import brooklyn.location.docker.DockerResolver;
 import brooklyn.location.jclouds.JcloudsLocation;
 import brooklyn.location.jclouds.JcloudsLocationConfig;
-import brooklyn.location.jclouds.JcloudsSshMachineLocation;
 import brooklyn.location.jclouds.networking.JcloudsLocationSecurityGroupCustomizer;
 import brooklyn.location.jclouds.templates.PortableTemplateBuilder;
 import brooklyn.management.LocationManager;
